@@ -25,7 +25,7 @@
       {"name": "Niosh 哈雷 1M", "sku": "1M"},
       {"name": "Niosh 比亚迪 45M", "sku": "45M"},
       {"name": "Niosh Makrite", "sku": "100K", "ifNew": true},
-      {"name": "Niosh 3M 8210", "sku": "2K", "ifNew": false},
+      {"name": "Niosh 3M 8210", "sku": "2K", "ifNew": false}
     ],
     "popularProducts": [
       {"name": "3M 1860  $3.5", "targetedPrice": 3.5},
@@ -43,12 +43,12 @@
       {"name": "KN95 CDC 保为康 MOQ 1K"},
       {"name": "手套现货 MOQ 100K"},
       {"name": "手套期货 MOQ 75K盒"},
-      {"name": "额温枪 MOQ 100 支"},
+      {"name": "额温枪 MOQ 100 支"}
     ],
     "productionRun": [
       {"name": "Niosh Makrite MOQ 100K"},
       {"name": "Niosh BYD MOQ 50K"},
       {"name": "KN95 Arun 10K"},
-      {"name": "KN95 CM 10K"},
+      {"name": "KN95 CM 10K"}
     ]
   }
