@@ -1,12 +1,19 @@
 {
     "currentLots": [
-      {"name": "口罩3层成人", "sku": "10M"},
-      {"name": "口罩3层成人 JCJZ", "sku": "3M"},
-      {"name": "口罩3层儿童 JCJZ", "sku": "700K"},
-      {"name": "口罩3层儿童常展", "sku": "1M", "ifNew": true},
-      {"name": "口罩3层医用 Lv1", "sku": "30M"},
-      {"name": "口罩3层医用 Lv2", "sku": "5M"},
-      {"name": "口罩3层医用 Lv3", "sku": "13M"},
+      {
+          "name": "Mask 3ply", 
+          "sku": "10M",
+      },
+      {
+          "name": "Mask 3ply", 
+          "sku": "3M",
+          "brand": "JCJZ"
+      },
+      {"name": "Mask 3ply Child JCJZ", "sku": "700K"},
+      {"name": "Mask 3ply Child 常展", "sku": "1M", "ifNew": true},
+      {"name": "Mask 3ply Medical Lv1", "sku": "30M"},
+      {"name": "Mask 3ply Medical Lv2", "sku": "5M"},
+      {"name": "Mask 3ply Medical Lv3", "sku": "13M"},
       {"name": "口罩面罩结合", "sku": "500K"},
       {"name": "KN95 CDC 亿信", "sku": "3M"},
       {"name": "KN95 CDC 保为康", "sku": "5M"},
