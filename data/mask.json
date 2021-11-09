@@ -10,7 +10,7 @@
           "brand": "JCJZ"
       },
       {"name": "3ply Child", "brand": "JCJZ", "sku": "700K"},
-      {"name": "3ply Child", "brand": "常展", "sku": "1M", "ifNew": true},
+      {"name": "3ply Child", "brand": "常展", "sku": "1M"},
       {"name": "3ply Medical Lv1", "sku": "30M"},
       {"name": "3ply Medical Lv2", "sku": "5M"},
       {"name": "3ply Medical Lv3", "sku": "13M"},
@@ -25,14 +25,15 @@
       {"name": "KN95 宝田", "sku": "600K"},
       {"name": "KN95 Yunliangan", "sku": "4M"},
       {"name": "KF94 Airqueen 500K", "sku": "500K"},
-      {"name": "Niosh 方天", "sku": "200K", "ifNew": true},
-      {"name": "Niosh 大胜", "sku": "100K", "ifNew": true},
+      {"name": "Niosh 方天", "sku": "200K"},
+      {"name": "Niosh 大胜", "sku": "100K"},
       {"name": "Niosh 金富裕 2 万", "sku": "20K"},
       {"name": "Niosh Honeywell 30K", "sku": "30K"},
       {"name": "Niosh 哈雷 1M", "sku": "1M"},
       {"name": "Niosh 比亚迪 45M", "sku": "45M"},
-      {"name": "Niosh Makrite", "sku": "100K", "ifNew": true},
-      {"name": "Niosh 3M 8210", "sku": "2K", "ifNew": false}
+      {"name": "Niosh Makrite", "sku": "100K"},
+      {"name": "Niosh 3M 8210", "sku": "2K"},
+      {"name": "Aoxing KN95", "sku": "50K"}
     ],
     "popularProducts": [
       {"name": "3M 1860  $3.5", "targetedPrice": 3.5},
