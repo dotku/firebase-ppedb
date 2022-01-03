@@ -1,16 +1,16 @@
 [{
-  name: "ZY International Trading"
+  "name": "ZY International Trading"
 }, {
-  name: "Vastmedic"
+  "name": "Vastmedic"
 }, {
-  name: "iHealth"
+  "name": "iHealth"
 }, {
-  name: "QuickVue"
+  "name": "QuickVue"
 }, {
-  name: "Syndicate One Group (SOG)"
+  "name": "Syndicate One Group (SOG)"
 }, {
-  name: "Jointown",
-  name_cn: "九州通"
+  "name": "Jointown",
+  "name_cn": "九州通"
 }, {
-  name: "Healthyou LLC"
+  "name": "Healthyou LLC"
 }]
