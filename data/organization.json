@@ -1,9 +1,13 @@
-[{
+[
+  {"name": "Andon Health Co., Ltd"},
+  {
   "name": "ZY International Trading"
 }, {
   "name": "Vastmedic"
 }, {
-  "name": "iHealth"
+  "name": "iHealth Lab Inc",
+  "parent_organization": "Andon Health Co., Ltd"
+  "address": "Mountain View, CA",
 }, {
   "name": "QuickVue"
 }, {
