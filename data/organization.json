@@ -5,9 +5,12 @@
 }, {
   "name": "Vastmedic"
 }, {
+  "name": "Toyokou",
+  "location": "Japan"
+},{
   "name": "iHealth Lab Inc",
   "parent_organization": "Andon Health Co., Ltd"
-  "address": "Mountain View, CA",
+  "location": "Mountain View, CA",
 }, {
   "name": "QuickVue"
 }, {
@@ -15,7 +18,7 @@
 }, {
   "name": "Jointown International",
   "name_cn": "九州通",
-  "address": "18701 Arenth Ave, City of Industry, CA 91748"
+  "location": "18701 Arenth Ave, City of Industry, CA 91748"
 }, {
   "name": "Healthyou LLC"
 }]
